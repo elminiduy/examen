@@ -1,0 +1,5 @@
+gerente 2000
+barrendero 150
+secretaria 1000
+guardia 900
+jefe 50000
